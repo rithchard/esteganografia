@@ -1,6 +1,6 @@
 # Esteganografía Aplicado a Imágenes PNG
 - Autor @SixP4ck3r
-- Articulo [Esteganografía Aplicado a Imágenes PNG ](https://github.com/rithchard/esteganografia/blob/main/Esteganograf%C3%ADa%20Aplicado%20a%20Im%C3%A1genes%20PNG.pdf)
+- Articulo PDF [Esteganografía Aplicado a Imágenes PNG ](https://github.com/rithchard/esteganografia/blob/main/Esteganograf%C3%ADa%20Aplicado%20a%20Im%C3%A1genes%20PNG.pdf)
 
 ### Librerias
 - [PIL](https://github.com/python-pillow/Pillow) Procesador de Imágenes PIL para Python
